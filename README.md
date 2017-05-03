@@ -1,2 +1,2 @@
 # auto_driving
-auto driving a tool vehicle car with machine learning algorithm
+A auto driving toy car with machine learning algorithm
